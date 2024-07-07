@@ -25,13 +25,13 @@
 </div>
 
 <style>
-	.plus-3 .title {
+	/* .plus-3 .title {
 		background-image: url(/images/plus3.webp);
 		background-repeat: no-repeat;
 		width: 17px;
 		height: 16px;
 		margin-top: 2px;
-	}
+	} */
 	.item:not(:first-child)::before {
 		background-color: var(--numbers-divider-color);
 		content: '';
