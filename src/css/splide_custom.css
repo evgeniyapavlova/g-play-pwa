@@ -1,0 +1,25 @@
+.splide__arrow {
+    box-shadow: 0 1px 2px 0 rgba(60, 64, 67, .3), 0 1px 3px 1px rgba(60, 64, 67, .15);
+    background-color: var(--arrow-splide-bgr);
+    border-radius: 28px 28px 28px 28px;
+    width: 56px;
+    height: 56px;
+    opacity: 1;
+    transition: opacity 0.2s ease-out;
+}
+
+.splide__arrow:disabled {
+    opacity: 0;
+}
+
+.splide__arrow--next {
+    right: -28px;
+}
+
+.splide__arrow--prev {
+    left: -28px;
+}
+
+.splide__arrow svg {
+    fill: var(--arrow-splide-svg);
+}
