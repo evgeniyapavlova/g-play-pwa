@@ -3,68 +3,64 @@ const content = {
 		title: 'Ratings and reviews',
 		caption: 'Ratings and reviews are verified',
 		reviews: [
-			'Perfect platform for beginners and even professionals. Easy interface and plenty of indicators to assist with trading. Also have human support who are efficient.',
-
-			"Well first I really liked the easy technicality of the tools available.....the quick deposit and withdrawal are also quite fast and their limits are just what I've been looking for. My trades are easy to monitor, GREAT App",
-
-			'Good platform to start trading only inconvenience is unexpected maintenance that could happen while trading but overall pretty good'
+			'The app is just 1 mb, awesome🔥 It’s superfast to download and works with great speed too. No need to have much space on your phone to install the app.',
+			'The app works directly in my browser. It loads faster and works well even with slow connection speeds. GREAT experience! Not to mention the quality of the platform: intuitive, well-designed, and pleasant to trade on…',
+			'App is light, 1 mb only… installed it easily following simple instructions… works well, no problem... Recommend 👍'
 		],
-		dates: ['April 9, 2024', 'February 29, 2024', 'March 4, 2024']
+		dates: ['June 29, 2024', 'July 1, 2024', 'July 3, 2024']
 	},
 	es: {
 		title: 'Puntuaciones y reseñas',
 		caption: 'Valoraciones y reseñas verificadas',
 		reviews: [
-			'Plataforma perfecta para principiantes e incluso profesionales. Interfaz sencilla y muchos indicadores para ayudar en las operaciones. También cuenta con una atención al cliente eficiente.',
-
-			'Bueno, primero me gustó mucho lo sencillas que son las herramientas técnicas disponibles... el depósito y retiro también son bastante rápidos y sus límites son justo lo que he estado buscando. Mis operaciones son fáciles de monitorear, EXCELENTE aplicación',
-
-			'Buena plataforma para comenzar a operar, el único inconveniente es el mantenimiento inesperado que podría ocurrir mientras se opera, pero en general es bastante buena.'
+			'La app pesa solo 1 MB, increíble.🔥 Se descarga súper rápido y también funciona a gran velocidad. No es necesario tener mucho espacio en tu teléfono para instalar la app.',
+			'La app funciona directamente en mi navegador. Carga más rápido y funciona bien incluso con velocidades de conexión lentas. ¡GRAN experiencia! Sin mencionar la calidad de la plataforma: intuitiva, bien diseñada y agradable para operar...',
+			'La app es liviana, solo 1 MB... la instalé fácilmente siguiendo instrucciones simples... funciona bien, no hay problema... La recomiendo👍'
 		],
-		dates: ['17 de marzo de 2024', '1 de marzo de 2024', '29 de marzo de 2024']
+		dates: ['29 de Junio de 2024', '1 de Julio de 2024', '3 de Julio de 2024']
 	},
 	pt: {
 		title: 'Avaliações e comentários',
 		caption: 'As notas e avaliações são verificadas',
 		reviews: [
-			'Plataforma perfeita para iniciantes e até profissionais. Interface simples e muitos indicadores para auxiliar na negociação. Também conta com suporte ao cliente humano e eficiente.',
-			'Bem, primeiro gostei muito da facilidade técnica das ferramentas disponíveis... os depósitos e retiradas são bastante rápidos e seus limites são exatamente o que eu estava procurando. Minhas negociações são fáceis de monitorar, EXCELENTE aplicativo',
-			'Uma boa plataforma para começar a negociar, um inconveniente apenas é a manutenção inesperada que pode acontecer durante a negociação, mas no geral é muito boa'
+			'O aplicativo tem apenas 1 mb, incrível🔥 O download é super-rápido e funciona com ótima velocidade. Não há necessidade de ter muito espaço no telefone para instalar o aplicativo.',
+			'O aplicativo funciona diretamente no meu navegador. Ele carrega mais rápido e funciona bem mesmo com velocidades de conexão lentas. Excelente experiência! Sem falar na qualidade da plataforma: intuitiva, bem desenhada e agradável para negociar…',
+			'O aplicativo é leve, apenas 1 mb... instalei facilmente seguindo instruções simples... funciona bem, sem problemas... Recomendo 👍'
 		],
-		dates: ['9 de março de 2024', '9 de abril de 2024', '10 de fevereiro de 2024']
+		dates: ['29 de junho de 2024', '1 de julho de 2024', '3 de julho de 2024']
 	},
 	th: {
 		title: 'คะแนนและรีวิว',
 		caption: 'คะแนนและรีวิวได้รับการยืนยันแล้ว',
 		reviews: [
-			'แพลตฟอร์มที่เหมาะกับผู้เริ่มต้นและมืออาชีพ ฟังก์ชันใช้งานง่ายและตัวชี้วัดให้เทรดมากมาย มีเจ้าหน้าที่คอยช่วยเหลืออย่างดี',
-			'ชอบเครื่องมือทางเทคนิคที่ใช้งานสะดวก ฝากเงินถอนเงินค่อนข้างรวดเร็ว มีเครื่องมือเทรดที่ต้องการให้ครบ ติดตามเทรดได้ง่าย แอปดีมาก',
-			'แพลตฟอร์มเหมาะกับการเริ่มเทรด แต่ไม่สะดวกตรงที่บางครั้งมีการปิดปรับปรุง ทำให้เข้าเทรดไม่ได้ แต่โดยรวมแล้วค่อนข้างดี'
+			'แอปมีขนาดแค่ 1 mb ดีมากเลย🔥 ดาวน์โหลดเร็ว ใช้งานก็เร็ว ติดตั้งแอปได้โดยไม่เปลืองพื้นที่โทรศัพท์',
+			'แอปทำงานได้โดยตรงในเบราว์เซอร์ ต่อให้เน็ตช้าก็โหลดเร็วและทำงานเร็ว ประทับใจ! ส่วนคุณภาพของแพลตฟอร์มก็ดีอยู่แล้ว ใช้งานง่าย ออกแบบมาดี น่าเทรด',
+			'แอปเล็กมาก แค่ 1 mb เอง ติดตั้งสะดวกแค่ทำตามคำแนะนำง่ายๆ ใช้งานได้ดี ไม่มีปัญหา แนะนำเลย 👍'
 		],
-		dates: ['20 มีนาคม ค.ศ. 2024', '5 เมษายน ค.ศ. 2024', '15 เมษายน ค.ศ. 2024']
+		dates: ['29 มิถุนายน 2024', '1 กรกฎาคม 2024', '3 กรกฎาคม 2024']
 	},
 	my: {
 		title: 'Penilaian dan ulasan',
 		caption: 'Rating dan ulasan disahkan',
 		reviews: [
-			'Platform yang sesuai untuk pemula dan juga profesional. Antara muka yang mudah dan banyak penunjuk untuk membantu perdagangan. Juga mendapat sokongan manusia yang cekap.',
-			'Pertama sekali saya sangat menyukai keteknikan mudah alatan yang ada.....deposit serta pengeluaran pantas juga agak pantas dan hadnya adalah seperti yang saya cari selama ini. Dagangan saya mudah dipantau, Aplikasi yang HEBAT',
-			'Platform yang bagus untuk memulakan dagangan. Satu-satunya kesulitan adalah penyelenggaraan yang tidak dijangka yang boleh berlaku semasa berdagang. Namun, secara keseluruhannya cukup bagus'
+			'Apl ini hanya bersaiz 1 mb, hebat🔥 Ia sangat pantas untuk dimuat turun dan berfungsi dengan kelajuan yang hebat juga. Tidak perlu ruang yang banyak pada telefon anda untuk memasang aplikasi ini.',
+			'Aplikasi ini berfungsi dalam pelayar web saya. Ia memuatkan dengan lebih cepat dan berfungsi dengan baik walaupun dengan kelajuan sambungan yang perlahan. Pengalaman yang HEBAT! Begitu juga kualiti platform ini: intuitif, direka bentuk dengan baik dan menyenangkan untuk berdagang…',
+			'Aplikasi ini ringan, 1 mb sahaja... memasangnya dengan mudah berdasarkan arahan yang mudah... berfungsi dengan baik, tiada masalah... Disyorkan 👍'
 		],
-		dates: ['14 April 2024', '28 Disember 2023', '14 Julai 2023']
+		dates: ['29 Jun 2024', '1 Julai 2024', '3 Julai 2024']
 	},
 	vi: {
 		title: 'Đánh giá và xếp hạng',
 		caption: 'Điểm xếp hạng và bài đánh giá đã được xác minh',
 		reviews: [
-			'Nền tảng giao dịch hoàn hảo dành cho người mới và cả các chuyên gia. Giao diện dễ dàng và nhiều chỉ báo hỗ trợ giao dịch. Nền tảng cũng cung cấp hỗ trợ hiệu quả từ con người.',
-			'Trước hết, tôi rất thích những yếu tố kỹ thuật của các công cụ có sẵn..... việc nạp và rút tiền cũng khá nhanh và giới hạn nạp-rút tiền chính là điều tôi mong đợi. Giao dịch của tôi rất dễ theo dõi, đó là Ứng dụng TUYỆT VỜI',
-			'Nền tảng rất tốt để bắt đầu giao dịch, chỉ có điều bất tiện là đôi khi diễn ra bảo trì bất ngờ trong khi giao dịch nhưng nhìn chung khá tốt'
+			'Ứng dụng chỉ 1 mb, tuyệt vời🔥 Tải xuống cực nhanh và làm việc siêu nhanh. Bạn không tốn nhiều dung lượng điện thoại để cài đặt ứng dụng.',
+			'Ứng dụng này làm việc ngay trên trình duyệt. Ngay cả khi tốc độ kết nối chậm thì nó vẫn tải nhanh và hoạt động tốt. Trải nghiệm TUYỆT VỜI! Chưa kể đến chất lượng của nền tảng thì nó trực quan, được thiết kế tốt và dễ giao dịch…',
+			'Ứng dụng nhẹ, chỉ 1 mb… cài đặt dễ dàng theo hướng dẫn đơn giản… hoạt động tốt, không có vấn đề gì... Khuyến nghị mọi người nhé 👍'
 		],
-		dates: ['10 tháng 4, 2024', '15 tháng 4, 2024', '6 tháng 4, 2024']
+		dates: ['Ngày 29 tháng 6 năm 2024', 'Ngày 1 tháng 7 năm 2024', 'Ngày 3 tháng 7 năm 2024']
 	}
 };
 
-export const reviwers = ['Víctor Contreras', 'Darren Nordin', 'Ben Leong'];
+export const reviwers = ['Alejandro Pérez', 'João Souza', 'Avyaan Agarwal'];
 
 export default content;

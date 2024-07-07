@@ -1,25 +1,25 @@
 <script>
 	export let lang;
-	import Header from './components/Header.svelte';
+	// import Header from './components/Header.svelte';
 	import Intro from './components/Intro.svelte';
 	import Numbers from './components/Numbers.svelte';
 	import Button from './components/Button.svelte';
 	import Screens from './components/Screens.svelte';
 	import About from './components/About.svelte';
-	import DataSafety from './components/DataSafety.svelte';
+	// import DataSafety from './components/DataSafety.svelte';
 	import Reviews from './components/Reviews/Reviews.svelte';
 </script>
 
 <section>
-	<Header />
+	<!-- <Header /> -->
 	<Intro {lang} />
 	<Numbers {lang} />
 	<Button {lang} />
 	<div class="content">
 		<Screens {lang} />
 		<About {lang} />
-		<DataSafety {lang} />
-		<Button {lang} />
+		<!-- <DataSafety {lang} /> -->
+		<!-- <Button {lang} /> -->
 		<Reviews {lang} />
 		<Button {lang} />
 	</div>

@@ -24,6 +24,9 @@
 </div>
 
 <style>
+	.wrap {
+		margin-top: 40px;
+	}
 	h2 {
 		width: -webkit-fill-available;
 	}

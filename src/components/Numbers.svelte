@@ -10,10 +10,14 @@
 		<div class="title high-font">4.8<Star /></div>
 		<div class="caption medium-font">{content[lang].reviews}&nbsp;<Info /></div>
 	</div>
-	<div class="item plus-3">
+	<div class="item">
+		<div class="title high-font">1MB</div>
+		<div class="caption medium-font">{content[lang].size}</div>
+	</div>
+	<!-- <div class="item plus-3">
 		<div class="title high-font"></div>
 		<div class="caption medium-font">{content[lang].adult}&nbsp;<Info /></div>
-	</div>
+	</div> -->
 	<div class="item">
 		<div class="title high-font">100M+</div>
 		<div class="caption medium-font">{content[lang].downloads}</div>

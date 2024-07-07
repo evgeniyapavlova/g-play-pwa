@@ -3,12 +3,15 @@
 	export let lang;
 
 	const content = {
-		en: { title: 'IQ Option – Trading platform' },
-		es: { title: 'IQ Option – Plataforma de Trading' },
-		pt: { title: 'IQ Option – Plataforma de negociação' },
-		my: { title: 'IQ Option – Platform dagangan' },
-		th: { title: 'IQ Option - แพลต์ฟอร์มเทรด' },
-		vi: { title: 'IQ Option – Nền tảng giao dịch' }
+		en: { title: 'IQ Option – Trading platform', subtitle: 'Instant Trading App' },
+		es: { title: 'IQ Option – Plataforma de Trading', subtitle: 'App De Trading Instantáneo' },
+		pt: {
+			title: 'IQ Option – Plataforma de negociação',
+			subtitle: 'Aplicativo de negociação instantânea'
+		},
+		my: { title: 'IQ Option – Platform dagangan', subtitle: 'Aplikasi Dagangan Segera' },
+		th: { title: 'IQ Option - แพลต์ฟอร์มเทรด', subtitle: 'แอปเทรดที่รวดเร็วแบบทันที' },
+		vi: { title: 'IQ Option – Nền tảng giao dịch', subtitle: 'Ứng dụng giao dịch tức thời' }
 	};
 </script>
 
@@ -25,13 +28,14 @@
 	/>
 	<div>
 		<h1 class="high-font">{content[lang].title}</h1>
-		<div class="caption">IQ Option</div>
+		<div class="caption">{content[lang].subtitle}</div>
 	</div>
 </div>
 
 <style>
 	.wrap {
 		margin-top: 24px;
+		padding-top: 24px;
 		align-items: flex-start;
 		display: flex;
 	}
