@@ -31,7 +31,7 @@
 				<div
 					class="screen"
 					id="screen-{index}"
-					style="background-image: url('{base}/images/{lang}/{lang}-{index + 1}.jpg');"
+					style="background-image: url('{base}/images/{lang}/{lang}-{index + 1}.jpg?1');"
 				></div>
 			</SplideSlide>
 		{/each}
