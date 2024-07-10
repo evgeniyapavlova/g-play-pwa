@@ -16,13 +16,7 @@
 		const queryParams = new URLSearchParams(query);
 
 		for (const [key, value] of Object.entries(parameters)) {
-			let tempKey = key;
-			if (tempKey === 'aff') {
-				tempKey = 'pid';
-			} else if (tempKey === 'afftrack') {
-				tempKey = 'c';
-			}
-			queryParams.set(tempKey, value);
+			queryParams.set(key, value);
 		}
 		const updatedHref = url + '?' + queryParams.toString();
 		reg_link.set(updatedHref);

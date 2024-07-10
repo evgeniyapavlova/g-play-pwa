@@ -14,10 +14,6 @@
 		<div class="title high-font">1MB</div>
 		<div class="caption medium-font">{content[lang].size}</div>
 	</div>
-	<!-- <div class="item plus-3">
-		<div class="title high-font"></div>
-		<div class="caption medium-font">{content[lang].adult}&nbsp;<Info /></div>
-	</div> -->
 	<div class="item">
 		<div class="title high-font">100M+</div>
 		<div class="caption medium-font">{content[lang].downloads}</div>
@@ -25,13 +21,6 @@
 </div>
 
 <style>
-	/* .plus-3 .title {
-		background-image: url(/images/plus3.webp);
-		background-repeat: no-repeat;
-		width: 17px;
-		height: 16px;
-		margin-top: 2px;
-	} */
 	.item:not(:first-child)::before {
 		background-color: var(--numbers-divider-color);
 		content: '';
